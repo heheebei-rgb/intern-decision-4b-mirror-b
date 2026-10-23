@@ -1,0 +1,126 @@
+{
+ "targets": {
+  "model-projector-0001-save_rank0.safetensors": {
+   "sha256": "a918679313b12c1d31659cd3b492e8be53c616217c2f7ec658ed7f0fdfa22ee0",
+   "bytes": 54543992
+  },
+  "tokenizer.json": {
+   "sha256": "94a639c4b33b192cc5a22cd3d7f0aaf6d97efa9577957a0382b55292ca4f0f00",
+   "bytes": 19989530
+  },
+  "tokenizer_config.json": {
+   "sha256": "f26d55ed6da1fc0de69fbaefae7b855f762e36d0052c05f4fdec312f72a22ae1",
+   "bytes": 7291
+  },
+  "vocab.json": {
+   "sha256": "4ab0d5c096294054b66444a116a20baf6e29998fc1fae410ffe4b6fadbc56b5c",
+   "bytes": 5234494
+  },
+  "merges.txt": {
+   "sha256": "3bd640ba6d8da8f5844f3548b7e2184fc664dd670e1447e425a48dbaaad1ef43",
+   "bytes": 3353273
+  },
+  "preprocessor_config.json": {
+   "sha256": "27225450ac9c6529872ee1924fcb0962ff5634834f817040f444118116f4e516",
+   "bytes": 390
+  },
+  "video_preprocessor_config.json": {
+   "sha256": "7768af27c1fafa9cc9011c1dc20067e03f8915e03b63504550e11d5066986d13",
+   "bytes": 385
+  },
+  "special_tokens_map.json": {
+   "sha256": "02c0c88f275a15197a3b600ccd6ae7976e9b8b67e8eb5d7500d256d91cb6791b",
+   "bytes": 735
+  },
+  "added_tokens.json": {
+   "sha256": "f1073c68b68e68ea82a576cf0865df14fc71408681b35724a4d17a214db5a97d",
+   "bytes": 928
+  },
+  "chat_template.jinja": {
+   "sha256": "a4aee8afcf2e0711942cf848899be66016f8d14a889ff9ede07bca099c28f715",
+   "bytes": 7756
+  },
+  "inference.py": {
+   "sha256": "c904e2c67ca0775621a22375ee373d2ba30b52117cda870c6c9ef74143b29863",
+   "bytes": 16256
+  },
+  "requirements.txt": {
+   "sha256": "a07f8990947cc3fa39800d510ebc6b995a15466656e339b485c0a632ef4cdb6e",
+   "bytes": 69
+  },
+  "LICENSE": {
+   "sha256": "c27d4b53f2965a962819c0ab91a4717aec2848d58a5163c19f1343b85f59ff7c",
+   "bytes": 11558
+  },
+  "README.md": {
+   "sha256": "9b61b4778f977e9653f884039d2df89de102615537e30e04ca8d14294abd6889",
+   "bytes": 10200
+  },
+  "model-language-0002-save_rank0.safetensors": {
+   "sha256": "c0a64383b5e5ca18c1086135dba5ee123a6c203ad86ffa4a08bdb9107ef61d6e",
+   "bytes": 4152470040,
+   "parts": [
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-00",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-01",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-02",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-03",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-04",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-05",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-06",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-07",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-08",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-09",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-10",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-11",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-12",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-13",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-14",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-15",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-16",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-17",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-18",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-19",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-20",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-21",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-22",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-23",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-24",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-25",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-26",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-27",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-28",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-29",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-30",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-31",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-32",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-33",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-34",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-35",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-36",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-37",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-38",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-39",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-40",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-41",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-42",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-43",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-44",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-45",
+    "chunks/lang2/model-language-0002-save_rank0.safetensors.part-46"
+   ]
+  },
+  "model-vision-0001-save_rank0.safetensors": {
+   "sha256": "cf1793360eb8e8f1de0678df1a4c8b0b9042ae79e618aff1fa24c30f3b41b233",
+   "bytes": 612517440,
+   "parts": [
+    "chunks/vision/model-vision-0001-save_rank0.safetensors.part-00",
+    "chunks/vision/model-vision-0001-save_rank0.safetensors.part-01",
+    "chunks/vision/model-vision-0001-save_rank0.safetensors.part-02",
+    "chunks/vision/model-vision-0001-save_rank0.safetensors.part-03",
+    "chunks/vision/model-vision-0001-save_rank0.safetensors.part-04",
+    "chunks/vision/model-vision-0001-save_rank0.safetensors.part-05",
+    "chunks/vision/model-vision-0001-save_rank0.safetensors.part-06"
+   ]
+  }
+ }
+}
